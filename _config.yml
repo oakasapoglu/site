@@ -1,7 +1,7 @@
 title: My blog
 description: My blog
 url: "https://oakasapoglu.github.io"
-baseurl: "/site"
+baseurl: "/"
 
 theme: minima
 
