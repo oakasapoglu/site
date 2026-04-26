@@ -1,7 +1,7 @@
-title: Fiyonk
+title: My blog
 description: My blog
 url: "https://oakasapoglu.github.io"
-baseurl: "/fiyonkk"
+baseurl: "/site"
 
 theme: minima
 
