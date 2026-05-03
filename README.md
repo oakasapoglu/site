@@ -1,6 +1,9 @@
 # Jekyll Personal Blog Template
 
 
+[Site is there](https://oakasapoglu.github.io/site)
+
+
 You can host websites in GitHub using Github Pages feature.
 It even supports a website creation scheme with only using markdown.
 This technology is called Jekyll.
@@ -29,10 +32,31 @@ Enable GitHub Pages, from repo settings.
 
 
 Then edit the config.yml file for making sure url is correct.
-> url: "https://<yourusername>.github.io"
+url: "https://yourusername.github.io"
 
 You can also edit some variables here after to change theme etc.
 
 Good luck
 
-Your website should be under https://<yourusername>.github.io
+Your website should be under https://yourusername.github.io
+
+
+To add new entries, there is some strict rules.
+
+Your file should be named in this format.
+YY-MM-DD-title.md
+
+Your file has metadata at the top.
+It is called yaml.
+
+Make sure all 3 properties exist as in the hello.md file.
+
+Make sure the date inside matches with the file names date.
+
+So you had created a new page.
+
+
+
+
+
+
