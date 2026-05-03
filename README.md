@@ -17,3 +17,22 @@ you may also want to check another static site generator, Hugo (written in Go an
 You can check the site with link below.
 
 [Site is there](https://oakasapoglu.github.io/site)
+
+
+
+
+
+To start, fork the repo.
+Rename repo to  <yourusername>.github.io
+
+Enable GitHub Pages, from repo settings.
+
+
+Then edit the config.yml file for making sure url is correct.
+> url: "https://<yourusername>.github.io"
+
+You can also edit some variables here after to change theme etc.
+
+Good luck
+
+Your website should be under https://<yourusername>.github.io
